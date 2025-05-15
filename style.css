@@ -1,14 +1,24 @@
 body {
-    background-color: #f4f4f4;
-    font-family: Arial, sans-serif;
-    padding: 20px;
+  background-color: #f4f4f4;
+  font-family: Arial, sans-serif;
+  padding: 20px;
 }
 
 h1 {
-    color: navy;
-    text-align: center;
+  color: navy;
+  text-align: center;
 }
 
 p {
-    font-size: 16px;
+  font-size: 16px;
+}
+
+a {
+  color: darkblue;
+  text-decoration: none;
+}
+
+input {
+  padding: 8px;
+  margin-top: 10px;
 }
